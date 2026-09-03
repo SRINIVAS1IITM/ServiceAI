@@ -1,0 +1,70 @@
+[
+  {
+    "id": "kb001",
+    "topic": "Password Reset",
+    "keywords": [
+      "password",
+      "reset",
+      "forgot",
+      "login",
+      "account access"
+    ],
+    "question_variants": [
+      "How do I reset my password?",
+      "I forgot my password, what to do?",
+      "Can't log in, need to reset password."
+    ],
+    "answer": "To reset your password, please go to your Account Settings page and click on 'Forgot Password'. You will receive an email with instructions to create a new password."
+  },
+  {
+    "id": "kb002",
+    "topic": "Software Installation Error",
+    "keywords": [
+      "install",
+      "setup",
+      "error",
+      "failed",
+      "stuck"
+    ],
+    "question_variants": [
+      "I'm getting an error during installation.",
+      "The software setup failed.",
+      "Installation is stuck at 50%."
+    ],
+    "answer": "If you're facing an installation error, please ensure you have administrator privileges and that your antivirus is temporarily disabled. Also, check our system requirements page on our website. If the issue persists, please provide the exact error message you are seeing."
+  },
+  {
+    "id": "kb003",
+    "topic": "Billing Inquiry",
+    "keywords": [
+      "billing",
+      "invoice",
+      "payment",
+      "subscription",
+      "charge"
+    ],
+    "question_variants": [
+      "I have a question about my bill.",
+      "Where can I find my invoices?",
+      "My payment failed."
+    ],
+    "answer": "For billing inquiries, please visit the 'Billing' section in your account dashboard. You can view invoices, update payment methods, and manage your subscription there. For specific issues, please provide your account ID."
+  },
+  {
+    "id": "kb004",
+    "topic": "API Rate Limits",
+    "keywords": [
+      "api",
+      "rate limit",
+      "quota",
+      "requests",
+      "throttling"
+    ],
+    "question_variants": [
+      "What are the API rate limits?",
+      "I'm getting a 429 error.",
+      "How can I increase my API quota?"
+    ],
+    "answer": "Our API rate limits are 100 requests per minute for the standard plan. If you are exceeding this, you might receive a 429 error. For higher limits, please consider upgrading your plan or contacting our sales team to discuss enterprise options."
+  }
+]
