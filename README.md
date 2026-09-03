@@ -1,4 +1,4 @@
-# 🤖 AI Customer Support Agent
+# 🤖 ServiceAI
 
 An intelligent, agentic system that automates the initial stages of customer inquiry processing — classifying intent, retrieving knowledge, drafting responses, and escalating to human agents when needed. Powered by a local LLM via [Ollama](https://ollama.com/) and semantic search via FAISS.
 
